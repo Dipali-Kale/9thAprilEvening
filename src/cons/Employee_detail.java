@@ -10,8 +10,7 @@ public class Employee_detail {
 	int emp_age;
 	char emp_gender;
 	static String team;
-	
-	
+	//dipali
 	
 	//usage of variable in non static method
 	public void emp_info()
